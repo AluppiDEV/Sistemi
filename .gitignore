@@ -1,0 +1,13 @@
+# Ignora tutto
+**/*
+
+# Formati per il Packet Tracer
+!**/*.pkt
+
+# File geerici
+!LICENSE
+!*/
+!**/*.md
+!**/*.txt
+!**/*.pdf
+!**/*.gitignore
